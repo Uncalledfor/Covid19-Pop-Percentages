@@ -6,7 +6,7 @@ Highcharts.chart('container', {
         type: 'packedbubble',
     },
     title: {
-        text: 'Percentage of Total Population per Country Reported to be Infected by Covid-19 as of July 10, 2020, Categorized by GDP.'
+        text: 'Percentage of Total Population per Country Reported to be Infected by Covid-19 as of July 2020, Categorized by GDP.'
     },
     tooltip: {
         useHTML: true,
